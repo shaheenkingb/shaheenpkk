@@ -1,3 +1,3 @@
 {
-	"name": "Cheems Bot Multi Device "
+	"name": "Shaheen Baloch Multi Device "
 }
